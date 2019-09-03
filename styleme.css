@@ -34,3 +34,13 @@ p::first-letter{
 
 
 }
+dt{
+    color: darkgreen;
+}
+dd{
+    color: chocolate;
+    width: 50vw;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
